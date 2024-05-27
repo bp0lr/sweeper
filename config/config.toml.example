@@ -1,0 +1,19 @@
+[config]
+infura = ""
+toWallet = ""
+
+[[wallets]]
+privateKey = ""
+address = ""
+
+[[wallets]]
+privateKey = ""
+address = ""
+
+[[wallets]]
+privateKey = ""
+address = ""
+
+[[wallets]]
+privateKey = ""
+address = ""
